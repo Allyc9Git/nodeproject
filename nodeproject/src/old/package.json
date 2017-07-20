@@ -1,0 +1,19 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "NodeJS 0 to App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allyc9Git/nodeproject.git"
+  },
+  "author": "Allycat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allyc9Git/nodeproject/issues"
+  },
+  "homepage": "https://github.com/Allyc9Git/nodeproject#readme"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "node02webapp",
+  "version": "0.0.1",
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "app.js",
+  "repository": "",
+  "author": "Allycat",
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allyc9Git/nodeproject.git"
+  },
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^4.13.3",
+    "socket.io": "^0.9.17"
+  },
+  "devDependencies": {},
+    "scripts": { 
+      "test": "echo\"Error: no test specified\" && exit 1",
+      "start": "node app.js"
+      },
+  "author": "",
+  "license": "ISC"
+}
